@@ -4,5 +4,5 @@
   </h1>
 </div>
 <div align=center>
-  <img src="Idea.jpg" width="450px" height="450px">
+  <img src="Idea.jpg" width="400px" height="400px">
 </div>

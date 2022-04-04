@@ -1,2 +1,4 @@
 # Idea
-<img src="Idea.jpg" width="150px">
+<div align=center>
+  <img src="Idea.jpg" width="200px">
+</div>

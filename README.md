@@ -1,2 +1,2 @@
 # Idea
-![Idea](Idea.jpg)
+<img src="Idea.jpg" width="100px">

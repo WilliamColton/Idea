@@ -1,2 +1,2 @@
 # Idea
-![Tux, the Linux mascot](Idea.jpg)
+![Idea](Idea.jpg)
